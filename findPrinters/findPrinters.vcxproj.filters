@@ -32,8 +32,5 @@
     <ClCompile Include="findPrinters.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="getIPAddress.cpp">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
 </Project>
